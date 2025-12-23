@@ -1,0 +1,5 @@
+{
+  "name": "ROS",
+  "description": "A web-based operating system simulation featuring a window manager, taskbar, and an AI-powered terminal assistant integrated with Gemini.",
+  "requestFramePermissions": []
+}
